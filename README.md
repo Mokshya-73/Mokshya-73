@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mokshya-73
-- 👀 I’m interested in Programming{C++,C,C#,JAVA,HTML,CSS,JavaScript};Innovation,UI/UX
-- 🌱 I’m currently learning Java,JavaScript,Frameworks,DBMS
+- ✨my passion-be a best full stack developer
+- 👀 I’m interested in Programing{HTML,CSS,JavaScript,PHP,React,Bootstrap,C++,C,C#,JAVA}& Innovation,UI/UX
+- 🌱 I’m currently learning HTML,CSS,JavaScript,Frameworks(React,Bootstrap,Mongodb)DBMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mokshyasudeshika@gmail.com
 
